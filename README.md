@@ -1,0 +1,4 @@
+xbsd-weechat
+============
+
+weechat theme
